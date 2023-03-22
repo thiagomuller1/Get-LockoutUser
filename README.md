@@ -13,3 +13,5 @@ Iniciar o script
 .\Get-LockoutEvents.ps1
 
 Irá solicitar nome de usuário e dominio, após, irá solicitar diretorio para exportar logs, por padrão é \Get-LockoutEvents-master\Results
+
+![LockoutSourceMachines](https://user-images.githubusercontent.com/87444620/226902919-a0dc7962-c2fb-428e-b420-f9cb78ce0327.png)
